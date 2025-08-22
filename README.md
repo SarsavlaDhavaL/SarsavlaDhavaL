@@ -2,8 +2,6 @@
 <h3 align="center">A passionate FuLL Stack Developer From Surat</h3>
 
 - 🌱 I’m currently learning **Javascript**
-
-- 📫 How to reach me **sarsavadhaval003@gmail.com**
 <hr/>
 <h2>Languages And Tools</h2>
 
